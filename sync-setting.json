@@ -1,0 +1,7 @@
+{
+  "interval": "realtime",
+  "ignore": [
+    "ssh/",
+    ".venv/"
+  ]
+}
